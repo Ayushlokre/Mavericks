@@ -8,7 +8,7 @@ def random_date(start, end, size):
     return [start + timedelta(days=random.randint(0, (end - start).days)) for _ in range(size)]
 
 # Number of patients
-num_patients = 10000
+num_patients = 50000  # Increased from 10,000 to 50,000
 
 # Sample patient data
 patients = pd.DataFrame({
@@ -88,4 +88,4 @@ appointments.to_csv("appointments.csv", index=False)
 medications.to_csv("medications.csv", index=False)
 lab_tests.to_csv("lab_tests.csv", index=False)
 
-print("CSV files for all tables with 10,000 records created successfully!")
+print("CSV files for all tables with 50,000 records created successfully!")
