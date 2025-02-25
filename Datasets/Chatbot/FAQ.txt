@@ -1,0 +1,115 @@
+What is diabetes?:Diabetes is a chronic metabolic disorder where the body either doesn’t produce enough insulin (Type 1) or becomes resistant to insulin (Type 2), leading to high blood sugar levels.
+Why is diabetes so common in India?:India has a high prevalence of Type 2 diabetes due to genetic predisposition, sedentary lifestyles, unhealthy diets, and rising obesity levels.
+What are the complications of diabetes?:Long-term complications include heart disease, kidney failure, nerve damage, blindness, and increased risk of infections.
+How can diabetes be managed?:Management includes lifestyle changes (healthy diet and exercise), medications like metformin, and insulin therapy for advanced cases.
+What is hypertension?:Hypertension is a condition where blood pressure remains consistently high, increasing the risk of heart disease, stroke, and kidney failure.
+What are the risk factors for hypertension in India?:Major factors include high salt intake, stress, obesity, smoking, lack of physical activity, and excessive alcohol consumption.
+How can hypertension be prevented?:Prevention strategies include reducing salt intake, regular physical activity, stress management, and a balanced diet rich in fruits and vegetables.
+What is coronary artery disease (CAD)?:Coronary artery disease (CAD) is a condition where the arteries supplying blood to the heart become narrow due to cholesterol buildup, leading to heart attacks and strokes.
+Why is heart disease common in India?:Heart disease is prevalent in India due to high-fat diets, lack of exercise, smoking, high stress levels, and genetic factors.
+How can CAD be prevented?:CAD can be prevented through regular exercise, a heart-healthy diet, controlling blood pressure and diabetes, quitting smoking, and stress reduction.
+What is chronic kidney disease (CKD)?:Chronic kidney disease (CKD) is a condition where kidney function gradually declines, leading to waste accumulation in the body.
+Why is CKD increasing in India?:CKD cases are rising in India due to increasing diabetes and hypertension, poor awareness, and late diagnosis.
+How can CKD be managed?:CKD can be managed with early detection, controlling blood pressure and sugar levels, dietary changes, and dialysis in advanced stages.
+What is chronic obstructive pulmonary disease (COPD)?:COPD is a lung disease that makes breathing difficult due to long-term lung damage.
+Why is COPD common in India?:COPD is common due to high pollution levels, smoking, biomass fuel exposure (chulha smoke in rural areas), and occupational dust exposure.
+How can COPD be prevented?:COPD can be prevented by avoiding smoking, reducing pollution exposure, wearing masks in polluted areas, and using cleaner cooking fuels.
+What is tuberculosis (TB)?:Tuberculosis (TB) is an infectious bacterial disease affecting the lungs, caused by Mycobacterium tuberculosis, and spreads through the air when an infected person coughs or sneezes.
+Why is TB still a major issue in India?:TB remains a significant issue in India due to poor sanitation, overcrowding, malnutrition, and lack of early diagnosis.
+How is TB treated?:TB is treated with a six-month course of antibiotics, including isoniazid, rifampicin, and pyrazinamide, while drug-resistant TB requires longer treatment.
+What is liver disease?:Liver diseases like fatty liver and cirrhosis occur when excess fat or alcohol consumption damages the liver over time.
+Why is liver disease rising in India?:Liver disease is increasing due to high junk food consumption, alcohol intake, and rising obesity rates in India.
+How can liver disease be prevented?:Liver disease can be prevented by reducing alcohol intake, eating a healthy diet, maintaining a healthy weight, and avoiding unnecessary medication use.
+What is osteoarthritis?:Osteoarthritis is a degenerative joint disease that causes cartilage breakdown, leading to joint pain and stiffness.
+Why is osteoarthritis common in India?:Osteoarthritis is common due to the aging population, obesity, and lifestyle changes.
+How is osteoarthritis managed?:Osteoarthritis can be managed through regular exercise, weight management, pain relief medications, and in severe cases, joint replacement surgery.
+What is stroke?:A stroke occurs when blood supply to the brain is interrupted due to a blockage (ischemic stroke) or bleeding (hemorrhagic stroke), causing brain damage.
+Why is stroke common in India?:Stroke cases are increasing due to high blood pressure, diabetes, smoking, high cholesterol, and lack of awareness about early symptoms.
+How can stroke be prevented?:Stroke can be prevented by controlling blood pressure, eating a healthy diet, exercising regularly, quitting smoking, and managing stress.
+What is anemia?:Anemia is a condition where the blood lacks enough healthy red blood cells or hemoglobin, leading to fatigue and weakness.
+Why is anemia common in India?:Anemia is widespread due to poor nutrition, iron and vitamin deficiencies, heavy menstruation in women, and parasitic infections.
+How can anemia be prevented?:Anemia can be prevented by consuming iron-rich foods like green leafy vegetables, lentils, and fortified cereals, along with vitamin B12 and folic acid supplements.
+What is asthma?:Asthma is a chronic lung disease where airways become inflamed and narrow, causing breathing difficulties, coughing, and wheezing.
+Why is asthma common in India?:Asthma is common due to air pollution, smoking, exposure to allergens, and rapid urbanization.
+How is asthma managed?:Asthma is managed using inhalers, medications, avoiding allergens, and breathing exercises like yoga and pranayama.
+What is hepatitis?:Hepatitis is an inflammation of the liver caused by viral infections (Hepatitis A, B, C, D, and E) or excessive alcohol and drug use.
+Why is hepatitis a concern in India?:Hepatitis B and C are major concerns due to unsterile medical practices, lack of vaccination, and unsafe blood transfusions.
+How can hepatitis be prevented?:Hepatitis can be prevented by vaccination (for Hepatitis A and B), maintaining hygiene, avoiding contaminated food and water, and using sterile medical equipment.
+What is cancer?:Cancer is a disease where abnormal cells grow uncontrollably, affecting various organs and leading to serious health complications.
+Why is cancer increasing in India?:Cancer rates are rising due to tobacco use, unhealthy diets, pollution, genetic factors, and delayed diagnosis.
+How can cancer be prevented?:Cancer can be prevented by avoiding smoking and alcohol, maintaining a healthy diet, exercising regularly, and undergoing regular screenings.
+What is Alzheimer’s disease?:Alzheimer’s is a progressive brain disorder that leads to memory loss, cognitive decline, and difficulty in daily tasks.
+Why is Alzheimer’s increasing in India?:Alzheimer’s cases are rising due to increased life expectancy, lack of awareness, and lifestyle changes.
+How can Alzheimer’s be managed?:There is no cure, but early diagnosis, cognitive exercises, medications, and a healthy lifestyle can slow its progression.
+What is Parkinson’s disease?:Parkinson’s is a neurodegenerative disorder that affects movement, causing tremors, stiffness, and balance problems.
+Why is Parkinson’s disease a concern in India?:With an aging population, cases of Parkinson’s are increasing, but awareness and access to specialized care remain low.
+How is Parkinson’s treated?:Treatment includes medications like levodopa, physiotherapy, and in advanced cases, deep brain stimulation surgery.
+What is dengue fever?:Dengue is a mosquito-borne viral infection that causes high fever, severe body pain, rashes, and in severe cases, internal bleeding.
+Why is dengue a recurring issue in India?:Dengue outbreaks occur due to stagnant water, poor sanitation, and increased mosquito breeding in urban areas.
+How can dengue be prevented?:Dengue can be prevented by using mosquito repellents, wearing protective clothing, keeping surroundings clean, and preventing water stagnation.
+What is malaria?:Malaria is a mosquito-borne disease caused by Plasmodium parasites, leading to fever, chills, sweating, and severe complications.
+Why is malaria still prevalent in India?:Malaria persists due to poor sanitation, high mosquito population, and climate factors favoring mosquito breeding.
+How is malaria treated and prevented?:Malaria is treated with antimalarial drugs, and prevention includes using mosquito nets, repellents, and maintaining clean surroundings.
+What is thyroid disorder?:Thyroid disorders like hypothyroidism and hyperthyroidism affect metabolism, leading to weight changes, fatigue, and hormonal imbalances.
+Why is thyroid disorder common in India?:Iodine deficiency, lifestyle factors, and genetic predisposition contribute to thyroid problems in India.
+How is thyroid disorder managed?:Thyroid issues are managed with medications, dietary changes, and regular thyroid function tests.
+What is tuberculosis (TB)?:Tuberculosis is an infectious disease caused by Mycobacterium tuberculosis, primarily affecting the lungs but also other parts of the body.
+Why is TB still a major health issue in India?:TB remains prevalent in India due to poor living conditions, malnutrition, lack of awareness, and delayed diagnosis.
+How can TB be prevented and treated?:TB can be prevented by vaccination (BCG), improving hygiene, and early detection. Treatment involves a 6-month course of antibiotics under the DOTS program.
+What is chronic kidney disease (CKD)?:CKD is a progressive loss of kidney function over time, leading to waste buildup in the body.
+Why is CKD becoming more common in India?:Diabetes and high blood pressure, major causes of CKD, are on the rise, along with poor lifestyle choices and late diagnosis.
+How can CKD be managed?:CKD is managed with medications, dietary modifications, blood pressure control, and in severe cases, dialysis or kidney transplantation.
+What is chronic obstructive pulmonary disease (COPD)?:COPD is a lung disease that causes breathing difficulties due to airflow obstruction and inflammation.
+Why is COPD a major health concern in India?:COPD is common due to air pollution, smoking, biomass fuel exposure, and occupational hazards like dust and chemicals.
+How is COPD managed?:COPD is managed with inhalers, medications, oxygen therapy, pulmonary rehabilitation, and lifestyle changes like quitting smoking.
+What is osteoporosis?:Osteoporosis is a condition where bones become weak and brittle, increasing the risk of fractures.
+Why is osteoporosis increasing in India?:Osteoporosis is rising due to low calcium intake, vitamin D deficiency, sedentary lifestyles, and increasing life expectancy.
+How can osteoporosis be prevented?:It can be prevented with calcium-rich diets, vitamin D supplements, regular weight-bearing exercises, and avoiding smoking and alcohol.
+What is rheumatoid arthritis?:Rheumatoid arthritis is an autoimmune disease where the immune system attacks the joints, causing inflammation, pain, and stiffness.
+Why is rheumatoid arthritis a growing concern in India?:It is becoming more common due to genetic factors, changing lifestyles, and increased life expectancy.
+How is rheumatoid arthritis treated?:Treatment includes anti-inflammatory medications, physiotherapy, and in severe cases, biologic drugs and joint replacement surgery.
+What is depression?:Depression is a mental health disorder characterized by persistent sadness, loss of interest, fatigue, and suicidal thoughts.
+Why is depression increasing in India?:Depression is rising due to stress, work pressure, social stigma, and lack of awareness about mental health.
+How can depression be managed?:It can be managed with therapy, medications, lifestyle changes, and social support. Seeking professional help early is crucial.
+What is epilepsy?:Epilepsy is a neurological disorder causing recurrent seizures due to abnormal brain activity.
+Why is epilepsy a concern in India?:Epilepsy is often misunderstood, leading to social stigma and delayed treatment, especially in rural areas.
+How is epilepsy treated?:Treatment includes antiepileptic drugs, a ketogenic diet, and in some cases, surgery. Early diagnosis can improve outcomes.
+What is dengue hemorrhagic fever (DHF)?:DHF is a severe form of dengue fever that causes internal bleeding, low platelet count, and organ failure.
+Why is DHF dangerous in India?:DHF is life-threatening, and lack of timely treatment in rural areas increases fatality rates.
+How can DHF be prevented?:Preventing mosquito breeding, using repellents, and seeking medical help early can reduce the risk of severe complications.
+What is leptospirosis?:Leptospirosis is a bacterial infection spread through water contaminated with urine from infected animals.
+Why is leptospirosis common in India?:It spreads rapidly during monsoons due to waterlogging and poor sanitation.
+How can leptospirosis be prevented?:Avoiding contaminated water, wearing protective footwear, and timely antibiotics can help prevent infections.
+What is chikungunya?:Chikungunya is a viral disease transmitted by mosquitoes, causing fever, joint pain, and rash.
+Why is chikungunya a problem in India?:Urbanization, stagnant water, and mosquito breeding make outbreaks frequent.
+How can chikungunya be prevented?:Using mosquito nets, repellents, and keeping surroundings clean can reduce the risk of infection.
+What is viral hepatitis E?:Hepatitis E is a liver infection caused by the hepatitis E virus, often linked to contaminated drinking water.
+Why is hepatitis E common in India?:Poor sanitation, lack of clean drinking water, and consumption of undercooked meat contribute to its spread.
+How can hepatitis E be prevented?:Boiling water, maintaining hygiene, and avoiding raw or undercooked meat help prevent infection.
+What is gallbladder disease?:Gallbladder diseases, including gallstones and inflammation, can cause severe abdominal pain, nausea, and digestive issues.
+Why is gallbladder disease common in India?:High-fat diets, obesity, and sedentary lifestyles contribute to gallstone formation, especially in women.
+How is gallbladder disease treated?:Treatment includes dietary changes, medications, and in severe cases, gallbladder removal surgery.
+What is liver cirrhosis?:Liver cirrhosis is the scarring of the liver due to prolonged damage from alcohol, hepatitis, or fatty liver disease.
+Why is liver cirrhosis a major concern in India?:Excessive alcohol consumption, hepatitis infections, and obesity-related fatty liver disease are leading causes of cirrhosis.
+How can liver cirrhosis be prevented?:Avoiding alcohol, maintaining a healthy weight, and getting vaccinated against hepatitis B can help prevent cirrhosis.
+What is fatty liver disease?:Fatty liver disease is a condition where excess fat accumulates in the liver, leading to inflammation and liver damage.
+Why is fatty liver disease increasing in India?:Rising obesity, diabetes, and excessive sugar and alcohol intake are major contributors.
+How can fatty liver disease be managed?:Weight loss, regular exercise, a balanced diet, and avoiding alcohol can help reverse fatty liver disease.
+What is Alzheimer’s disease?:Alzheimer’s is a progressive brain disorder that causes memory loss, confusion, and cognitive decline.
+Why is Alzheimer’s a growing concern in India?:With increasing life expectancy, age-related diseases like Alzheimer’s are becoming more common.
+How can Alzheimer’s be managed?:There is no cure, but cognitive therapy, medications, and a healthy lifestyle can help slow its progression.
+What is Parkinson’s disease?:Parkinson’s is a neurological disorder affecting movement, causing tremors, stiffness, and balance issues.
+Why is Parkinson’s disease on the rise in India?:Aging population, genetic factors, and environmental triggers like pesticide exposure are linked to its rise.
+How is Parkinson’s treated?:Treatment includes medications, physiotherapy, and in some cases, deep brain stimulation surgery.
+What is psoriasis?:Psoriasis is a chronic autoimmune skin disorder that causes red, scaly patches on the skin.
+Why is psoriasis common in India?:Genetics, stress, infections, and climate factors contribute to psoriasis cases.
+How can psoriasis be managed?:Treatment includes topical creams, phototherapy, medications, and lifestyle changes like stress management.
+What is migraine?:Migraine is a neurological condition causing severe headaches, nausea, and sensitivity to light and sound.
+Why are migraines common in India?:Stress, poor sleep, irregular eating habits, dehydration, and air pollution contribute to frequent migraines.
+How can migraines be prevented and treated?:Avoiding triggers, maintaining a healthy routine, stress management, and medications can help control migraines.
+What is GERD (Gastroesophageal Reflux Disease)?:GERD is a digestive disorder where stomach acid flows back into the esophagus, causing heartburn and irritation.
+Why is GERD increasing in India?:Unhealthy eating habits, obesity, and increased consumption of spicy and fatty foods contribute to GERD.
+How can GERD be managed?:Lifestyle modifications, avoiding acidic foods, weight management, and medications like antacids help control GERD.
+What is peptic ulcer disease?:Peptic ulcers are open sores in the stomach lining or small intestine, caused by acid erosion.
+Why is peptic ulcer disease common in India?:Helicobacter pylori infection, excessive painkiller use, and high spice consumption contribute to ulcers.
+How can peptic ulcers be treated?:Treatment includes antibiotics for H. pylori, proton pump inhibitors, and avoiding alcohol and spicy foods.
